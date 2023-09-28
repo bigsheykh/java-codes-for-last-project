@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import json
+import git
 import os
 import subprocess
 import multiprocessing
@@ -8,7 +9,11 @@ import multiprocessing
 list_of_all = []
 list_of_unpassed = []
 counter = 0
-with open("extract-dataset/dataset-info.json") as json_file:
+repo_root = git.Repo('.', search_parent_directories=True).working_tree_dir
+data_set_path = os.path.join(repo_root, "extract-dataset/dataset-info.json")
+repo_root_path = os.path.join(repo_root,"repos")
+
+with open(data_set_path) as json_file:
     data_set = json.load(json_file)
     for x in data_set:
         y = data_set[x]
@@ -24,22 +29,14 @@ with open("extract-dataset/dataset-info.json") as json_file:
                         list_of_unpassed.append((x, version, results[version], data_set[x]["repo_name"]))
         counter = counter + 1
 
-print([(x[0], x[1]) for x in list_of_all])
-
-print([(x[0], x[1]) for x in list_of_unpassed])
-
-
-# print(counter)
-# print(len(list_of_all))
 set_of_testing =  set([(x[3], x[1]) for x in list_of_all] + [(x[3], x[1]) for x in list_of_unpassed])
-# print(len(list_of_testing))
-# print(list_of_testing)
-
 data_set_path = "/home/amirreza/Downloads/Duets/dataset"
 list_of_testing = list(set_of_testing)
 list_of_testing.reverse()
+set_of_repos = set([x[0] for x in list_of_testing])
+
+
 # for repo in list_of_testing:
-    
 #     path_of_repo = os.path.join(data_set_path, repo[0], "commits", repo[1])
 #     path_of_pom = os.path.join(data_set_path, repo[0], "commits", repo[1], "pom.xml")
 #     path_of_infos = os.path.join(data_set_path, repo[0], "commits", repo[1], "pom.xml")
@@ -47,10 +44,6 @@ list_of_testing.reverse()
 #         process = subprocess.Popen(args="mvn dependency:resolve", cwd=path_of_repo, shell=True)
 #         a = process.wait()
         
-
-
-# set_of_repos = set([x[0] for x in list_of_testing])
-# print(set_of_repos)
 
 def add_submodule(repo):
     path_of_repo_info = os.path.join(data_set_path, repo[0],"project-info.json")
@@ -62,22 +55,27 @@ def add_submodule(repo):
             repo_info = json.load(json_file)
             repo_url:str = repo_info["url"]
             repo_url = repo_url.replace("api.github.com/repos", "github.com")
-            os.makedirs(os.path.join("repos", repo_owner), exist_ok=True)
-            os.makedirs(os.path.join("repos", repo_owner, repo_name), exist_ok=True)
-            repo_relative_address = os.path.join("repos", repo_owner, repo_name, repo[1])
-            os.makedirs(repo_relative_address, exist_ok=True)
+            repo_father_address = os.path.join(repo_root_path, repo_owner, repo_name)
+            repo_relative_address = os.path.join(repo_father_address, repo[1])
             print(repo_owner, repo_name, repo_url, repo_relative_address)
-            process = subprocess.Popen(args="git submodule add " + repo_url + ".git", cwd=repo_relative_address, shell=True)
-            process.wait()
+
+            os.makedirs(os.path.join(repo_root_path, repo_owner), exist_ok=True)
+            os.makedirs(repo_father_address, exist_ok=True)
+
+            process1 = subprocess.Popen(args=f"git submodule add --name {repo_owner}-{repo_name}-{repo[1]} {repo_url}.git {repo[1]}", cwd=repo_father_address, shell=True)
+            process1.wait()
+            process2 = subprocess.Popen(args=f"git checkout {repo[1]}", cwd=repo_relative_address, shell=True)
+            process2.wait()
+            process3 = subprocess.Popen(args=f"git add {repo[1]}", cwd=repo_father_address, shell=True)
+            process3.wait()
+            process4 = subprocess.Popen(args=f"git commit -m \"add {repo[0]} with commit {repo[1]}\"", cwd=repo_father_address, shell=True)
+            process4.wait()
     else:
         print(path_of_repo_info, "doesn't exist")
 
 
-with multiprocessing.Pool() as pool:
-    pool.map(add_submodule, list_of_testing)
-
-# for repo in list_of_testing:
-
+for repo in list_of_testing:
+    add_submodule(repo)
     # print(repo, path_of_repo)
 # print(len(set([x[0] for x in list_of_all])))
 # print(len(set([x[0] for x in list_of_unpassed])))
