@@ -82,3 +82,6 @@
 [submodule "hub4j-github-api-5194a361f49e382009ff3853010df9aec9b9a3ee"]
 	path = repos/hub4j/github-api/5194a361f49e382009ff3853010df9aec9b9a3ee
 	url = https://github.com/hub4j/github-api.git
+[submodule "mybatis-mybatis-3-596cbe45f3d33efd9f19f6e2f13caf5163395d74"]
+	path = repos/mybatis/mybatis-3/596cbe45f3d33efd9f19f6e2f13caf5163395d74
+	url = https://github.com/mybatis/mybatis-3.git
