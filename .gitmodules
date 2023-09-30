@@ -154,3 +154,6 @@
 [submodule "TooTallNate-Java-WebSocket"]
 	path = repos/TooTallNate/Java-WebSocket
 	url = https://github.com/TooTallNate/Java-WebSocket.git
+[submodule "jenkinsci-token-macro-plugin"]
+	path = repos/jenkinsci/token-macro-plugin
+	url = https://github.com/jenkinsci/token-macro-plugin.git
