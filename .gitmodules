@@ -145,3 +145,6 @@
 [submodule "apache-attic-mrunit"]
 	path = repos/apache/attic-mrunit
 	url = https://github.com/apache/attic-mrunit.git
+[submodule "apache-commons-text"]
+	path = repos/apache/commons-text
+	url = https://github.com/apache/commons-text.git
