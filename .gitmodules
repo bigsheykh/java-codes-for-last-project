@@ -73,3 +73,6 @@
 [submodule "FasterXML-woodstox-c7fc22529b2246ca7516854cec4b9bf5be85fa8a"]
 	path = repos/FasterXML/woodstox/c7fc22529b2246ca7516854cec4b9bf5be85fa8a
 	url = https://github.com/FasterXML/woodstox.git
+[submodule "apache-commons-math-16abfe5de688cc52fb0396e0609cb33044b15653"]
+	path = repos/apache/commons-math/16abfe5de688cc52fb0396e0609cb33044b15653
+	url = https://github.com/apache/commons-math.git
