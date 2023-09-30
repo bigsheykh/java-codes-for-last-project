@@ -22,3 +22,6 @@
 [submodule "joel-costigliola-assertj-core-03e16fb97b0329b96f9ec48ea2025ad314e6ae15"]
 	path = repos/joel-costigliola/assertj-core/03e16fb97b0329b96f9ec48ea2025ad314e6ae15
 	url = https://github.com/joel-costigliola/assertj-core.git
+[submodule "apache-commons-email-927b8943f396f8494b17e90608272fe2068c0df3"]
+	path = repos/apache/commons-email/927b8943f396f8494b17e90608272fe2068c0df3
+	url = https://github.com/apache/commons-email.git
