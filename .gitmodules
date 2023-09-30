@@ -139,3 +139,6 @@
 [submodule "joel-costigliola-assertj-core-ed104ac582301e1f75dc77a6c50d1e0831935e5f"]
 	path = repos/joel-costigliola/assertj-core/ed104ac582301e1f75dc77a6c50d1e0831935e5f
 	url = https://github.com/joel-costigliola/assertj-core.git
+[submodule "brettwooldridge-HikariCP-ec5e85e4316c6aa30bc2e115630f80c3b70e685e"]
+	path = repos/brettwooldridge/HikariCP/ec5e85e4316c6aa30bc2e115630f80c3b70e685e
+	url = https://github.com/brettwooldridge/HikariCP.git
