@@ -1,108 +1,108 @@
 [submodule "jhy-jsoup-b42fe0d5dfd882c5f544704b3dbe05c4301fe671"]
-	path = repos/jhy/jsoup/b42fe0d5dfd882c5f544704b3dbe05c4301fe671
+	path = repos/jhy/jsoup
 	url = https://github.com/jhy/jsoup.git
 [submodule "FasterXML-jackson-datatype-jsr310-5d9b39f09a8e587980f21535dbcb47f883b96e3a"]
-	path = repos/FasterXML/jackson-datatype-jsr310/5d9b39f09a8e587980f21535dbcb47f883b96e3a
+	path = repos/FasterXML/jackson-datatype-jsr310
 	url = https://github.com/FasterXML/jackson-datatype-jsr310.git
 [submodule "jboss-javassist-javassist-7ff52ac61b307d6a785ae458d06bdf52335ae79c"]
-	path = repos/jboss-javassist/javassist/7ff52ac61b307d6a785ae458d06bdf52335ae79c
+	path = repos/jboss-javassist/javassist
 	url = https://github.com/jboss-javassist/javassist.git
 [submodule "jqno-equalsverifier-e8c027d7827bbaecbe2a8352284955c794fefc2a"]
-	path = repos/jqno/equalsverifier/e8c027d7827bbaecbe2a8352284955c794fefc2a
+	path = repos/jqno/equalsverifier
 	url = https://github.com/jqno/equalsverifier.git
 [submodule "alibaba-fastjson-2bd96e9f91f7ae96c8f8f9f0182bd6400216c7f4"]
-	path = repos/alibaba/fastjson/2bd96e9f91f7ae96c8f8f9f0182bd6400216c7f4
+	path = repos/alibaba/fastjson
 	url = https://github.com/alibaba/fastjson.git
 [submodule "joel-costigliola-assertj-core-03e16fb97b0329b96f9ec48ea2025ad314e6ae15"]
-	path = repos/joel-costigliola/assertj-core/03e16fb97b0329b96f9ec48ea2025ad314e6ae15
+	path = repos/joel-costigliola/assertj-core
 	url = https://github.com/joel-costigliola/assertj-core.git
 [submodule "apache-commons-email-927b8943f396f8494b17e90608272fe2068c0df3"]
-	path = repos/apache/commons-email/927b8943f396f8494b17e90608272fe2068c0df3
+	path = repos/apache/commons-email
 	url = https://github.com/apache/commons-email.git
 [submodule "bguerout-jongo-b37cac6e38ff748791a063a99e625d1d954d9692"]
-	path = repos/bguerout/jongo/b37cac6e38ff748791a063a99e625d1d954d9692
+	path = repos/bguerout/jongo
 	url = https://github.com/bguerout/jongo.git
 [submodule "xerial-sqlite-jdbc-f65211179d70d3b8b9273b85b914d378c2aa0db4"]
-	path = repos/xerial/sqlite-jdbc/f65211179d70d3b8b9273b85b914d378c2aa0db4
+	path = repos/xerial/sqlite-jdbc
 	url = https://github.com/xerial/sqlite-jdbc.git
 [submodule "HtmlUnit-htmlunit-3062b91112fe29c627d7e8d5144c47e84fd5e925"]
-	path = repos/HtmlUnit/htmlunit/3062b91112fe29c627d7e8d5144c47e84fd5e925
+	path = repos/HtmlUnit/htmlunit
 	url = https://github.com/HtmlUnit/htmlunit.git
 [submodule "alexruiz-fest-assert-2.x-769bb356ba44d4d37173ff315261c8d5360c11e4"]
-	path = repos/alexruiz/fest-assert-2.x/769bb356ba44d4d37173ff315261c8d5360c11e4
+	path = repos/alexruiz/fest-assert-2.x
 	url = https://github.com/alexruiz/fest-assert-2.x.git
 [submodule "brettwooldridge-HikariCP-132683a08f2759251072f72bd9091c9463cd8483"]
-	path = repos/brettwooldridge/HikariCP/132683a08f2759251072f72bd9091c9463cd8483
+	path = repos/brettwooldridge/HikariCP
 	url = https://github.com/brettwooldridge/HikariCP.git
 [submodule "JodaOrg-joda-time-c09de9425d4727e35fdc5b1a69f1e3b3ea4799e0"]
-	path = repos/JodaOrg/joda-time/c09de9425d4727e35fdc5b1a69f1e3b3ea4799e0
+	path = repos/JodaOrg/joda-time
 	url = https://github.com/JodaOrg/joda-time.git
 [submodule "dnsjava-dnsjava-5f452a780727fdf904c33d642a1e0c8f98d4383a"]
-	path = repos/dnsjava/dnsjava/5f452a780727fdf904c33d642a1e0c8f98d4383a
+	path = repos/dnsjava/dnsjava
 	url = https://github.com/dnsjava/dnsjava.git
 [submodule "DiUS-java-faker-a568d925cc86dc933a8b38e075916d3b33cd13f2"]
-	path = repos/DiUS/java-faker/a568d925cc86dc933a8b38e075916d3b33cd13f2
+	path = repos/DiUS/java-faker
 	url = https://github.com/DiUS/java-faker.git
 [submodule "mvel-mvel-f43d5e36c6df05858fdd5175600de319e05962d8"]
-	path = repos/mvel/mvel/f43d5e36c6df05858fdd5175600de319e05962d8
+	path = repos/mvel/mvel
 	url = https://github.com/mvel/mvel.git
 [submodule "FasterXML-woodstox-c7fc22529b2246ca7516854cec4b9bf5be85fa8a"]
-	path = repos/FasterXML/woodstox/c7fc22529b2246ca7516854cec4b9bf5be85fa8a
+	path = repos/FasterXML/woodstox
 	url = https://github.com/FasterXML/woodstox.git
 [submodule "apache-commons-math-16abfe5de688cc52fb0396e0609cb33044b15653"]
-	path = repos/apache/commons-math/16abfe5de688cc52fb0396e0609cb33044b15653
+	path = repos/apache/commons-math
 	url = https://github.com/apache/commons-math.git
 [submodule "hub4j-github-api-5194a361f49e382009ff3853010df9aec9b9a3ee"]
-	path = repos/hub4j/github-api/5194a361f49e382009ff3853010df9aec9b9a3ee
+	path = repos/hub4j/github-api
 	url = https://github.com/hub4j/github-api.git
 [submodule "apache-commons-collections-cb157163d7543f942a1391f3ef752ebea1e1b349"]
-	path = repos/apache/commons-collections/cb157163d7543f942a1391f3ef752ebea1e1b349
+	path = repos/apache/commons-collections
 	url = https://github.com/apache/commons-collections.git
 [submodule "JSQLParser-JSqlParser-012fcc333375f65804e31bfd075eba862d3c04f3"]
-	path = repos/JSQLParser/JSqlParser/012fcc333375f65804e31bfd075eba862d3c04f3
+	path = repos/JSQLParser/JSqlParser
 	url = https://github.com/JSQLParser/JSqlParser.git
 [submodule "apache-commons-lang-27676c620a7dbb3365311c3424554c603bb11470"]
-	path = repos/apache/commons-lang/27676c620a7dbb3365311c3424554c603bb11470
+	path = repos/apache/commons-lang
 	url = https://github.com/apache/commons-lang.git
 [submodule "magro-kryo-serializers-ee0166db6ef90910fbfe68b1400c5742c7f1a79d"]
-	path = repos/magro/kryo-serializers/ee0166db6ef90910fbfe68b1400c5742c7f1a79d
+	path = repos/magro/kryo-serializers
 	url = https://github.com/magro/kryo-serializers.git
 [submodule "j256-ormlite-jdbc-f0aee82e59a12d8f27cd150ee0d5fdf3f2ca91f1"]
-	path = repos/j256/ormlite-jdbc/f0aee82e59a12d8f27cd150ee0d5fdf3f2ca91f1
+	path = repos/j256/ormlite-jdbc
 	url = https://github.com/j256/ormlite-jdbc.git
 [submodule "jopt-simple-jopt-simple-59a05aa29e08ffaa9b57db138e37010d943a5451"]
-	path = repos/jopt-simple/jopt-simple/59a05aa29e08ffaa9b57db138e37010d943a5451
+	path = repos/jopt-simple/jopt-simple
 	url = https://github.com/jopt-simple/jopt-simple.git
 [submodule "apache-commons-compress-01b06d5ef5c5ac3bd651bedcfec7433231cea371"]
-	path = repos/apache/commons-compress/01b06d5ef5c5ac3bd651bedcfec7433231cea371
+	path = repos/apache/commons-compress
 	url = https://github.com/apache/commons-compress.git
 [submodule "apache-commons-codec-ec23a68495a96f5a65e4613545ecee6fd8e37fcf"]
-	path = repos/apache/commons-codec/ec23a68495a96f5a65e4613545ecee6fd8e37fcf
+	path = repos/apache/commons-codec
 	url = https://github.com/apache/commons-codec.git
 [submodule "belerweb-pinyin4j-8a05f77d7c980aa21f6dd1c6c3911d790ddd7924"]
-	path = repos/belerweb/pinyin4j/8a05f77d7c980aa21f6dd1c6c3911d790ddd7924
+	path = repos/belerweb/pinyin4j
 	url = https://github.com/belerweb/pinyin4j.git
 [submodule "zeroturnaround-zt-exec-5ea417fbeb7b58cc5318c15ddba29d4c2c90633b"]
-	path = repos/zeroturnaround/zt-exec/5ea417fbeb7b58cc5318c15ddba29d4c2c90633b
+	path = repos/zeroturnaround/zt-exec
 	url = https://github.com/zeroturnaround/zt-exec.git
 [submodule "eclipse-vertx-vert.x-e87daea97a27f7bb698499ca0727077cc1231844"]
-	path = repos/eclipse-vertx/vert.x/e87daea97a27f7bb698499ca0727077cc1231844
+	path = repos/eclipse-vertx/vert.x
 	url = https://github.com/eclipse-vertx/vert.x.git
 [submodule "apache-commons-io-2ae025fe5c4a7d2046c53072b0898e37a079fe62"]
-	path = repos/apache/commons-io/2ae025fe5c4a7d2046c53072b0898e37a079fe62
+	path = repos/apache/commons-io
 	url = https://github.com/apache/commons-io.git
 [submodule "apache-commons-configuration-137997974e0ebd3acd047243f46ddf3b90fa0160"]
-	path = repos/apache/commons-configuration/137997974e0ebd3acd047243f46ddf3b90fa0160
+	path = repos/apache/commons-configuration
 	url = https://github.com/apache/commons-configuration.git
 [submodule "bmoliveira-snake-yaml-714247b283b81f5f26afe7cd196598d64ea0e245"]
-	path = repos/bmoliveira/snake-yaml/714247b283b81f5f26afe7cd196598d64ea0e245
+	path = repos/bmoliveira/snake-yaml
 	url = https://github.com/bmoliveira/snake-yaml.git
 [submodule "mybatis-mybatis-3-22fcbef30a5f6708e5c314ef18b3fad13bd1c78e"]
-	path = repos/mybatis/mybatis-3/22fcbef30a5f6708e5c314ef18b3fad13bd1c78e
+	path = repos/mybatis/mybatis-3
 	url = https://github.com/mybatis/mybatis-3.git
 [submodule "logstash-logstash-logback-encoder-8d8bb766ee8d30bc77fe983fb72b107448cf048f"]
-	path = repos/logstash/logstash-logback-encoder/8d8bb766ee8d30bc77fe983fb72b107448cf048f
+	path = repos/logstash/logstash-logback-encoder
 	url = https://github.com/logstash/logstash-logback-encoder.git
 [submodule "apache-commons-validator-ff5b4b45dbea1522510e50dbab2aae65cf47c6d1"]
-	path = repos/apache/commons-validator/ff5b4b45dbea1522510e50dbab2aae65cf47c6d1
+	path = repos/apache/commons-validator
 	url = https://github.com/apache/commons-validator.git
