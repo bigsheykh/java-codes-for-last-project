@@ -124,3 +124,6 @@
 [submodule "belerweb-pinyin4j-8a05f77d7c980aa21f6dd1c6c3911d790ddd7924"]
 	path = repos/belerweb/pinyin4j/8a05f77d7c980aa21f6dd1c6c3911d790ddd7924
 	url = https://github.com/belerweb/pinyin4j.git
+[submodule "zeroturnaround-zt-exec-5ea417fbeb7b58cc5318c15ddba29d4c2c90633b"]
+	path = repos/zeroturnaround/zt-exec/5ea417fbeb7b58cc5318c15ddba29d4c2c90633b
+	url = https://github.com/zeroturnaround/zt-exec.git
