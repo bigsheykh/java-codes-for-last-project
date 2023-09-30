@@ -43,3 +43,6 @@
 [submodule "FasterXML-jackson-datatype-jsr310-92757f33c9581bb184c9ad75a5ed6ae8a89acf13"]
 	path = repos/FasterXML/jackson-datatype-jsr310/92757f33c9581bb184c9ad75a5ed6ae8a89acf13
 	url = https://github.com/FasterXML/jackson-datatype-jsr310.git
+[submodule "brettwooldridge-HikariCP-132683a08f2759251072f72bd9091c9463cd8483"]
+	path = repos/brettwooldridge/HikariCP/132683a08f2759251072f72bd9091c9463cd8483
+	url = https://github.com/brettwooldridge/HikariCP.git
