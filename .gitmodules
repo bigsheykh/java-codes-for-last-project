@@ -40,3 +40,6 @@
 [submodule "alexruiz-fest-assert-2.x-769bb356ba44d4d37173ff315261c8d5360c11e4"]
 	path = repos/alexruiz/fest-assert-2.x/769bb356ba44d4d37173ff315261c8d5360c11e4
 	url = https://github.com/alexruiz/fest-assert-2.x.git
+[submodule "FasterXML-jackson-datatype-jsr310-92757f33c9581bb184c9ad75a5ed6ae8a89acf13"]
+	path = repos/FasterXML/jackson-datatype-jsr310/92757f33c9581bb184c9ad75a5ed6ae8a89acf13
+	url = https://github.com/FasterXML/jackson-datatype-jsr310.git
