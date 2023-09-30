@@ -142,3 +142,6 @@
 [submodule "brettwooldridge-HikariCP-ec5e85e4316c6aa30bc2e115630f80c3b70e685e"]
 	path = repos/brettwooldridge/HikariCP/ec5e85e4316c6aa30bc2e115630f80c3b70e685e
 	url = https://github.com/brettwooldridge/HikariCP.git
+[submodule "HtmlUnit-htmlunit-9d4196a699786c4e1d3ca39af1519b2555de836b"]
+	path = repos/HtmlUnit/htmlunit/9d4196a699786c4e1d3ca39af1519b2555de836b
+	url = https://github.com/HtmlUnit/htmlunit.git
