@@ -133,3 +133,6 @@
 [submodule "apache-commons-dbcp"]
 	path = repos/apache/commons-dbcp
 	url = https://github.com/apache/commons-dbcp.git
+[submodule "RbkGh-Jose4j"]
+	path = repos/RbkGh/Jose4j
+	url = https://github.com/RbkGh/Jose4j.git
