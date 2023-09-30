@@ -7,3 +7,6 @@
 [submodule "apache-attic-mrunit-f43424e873f9803ce32abf69a6e67330daceb8aa"]
 	path = repos/apache/attic-mrunit/f43424e873f9803ce32abf69a6e67330daceb8aa
 	url = https://github.com/apache/attic-mrunit.git
+[submodule "FasterXML-jackson-datatype-jsr310-5d9b39f09a8e587980f21535dbcb47f883b96e3a"]
+	path = repos/FasterXML/jackson-datatype-jsr310/5d9b39f09a8e587980f21535dbcb47f883b96e3a
+	url = https://github.com/FasterXML/jackson-datatype-jsr310.git
