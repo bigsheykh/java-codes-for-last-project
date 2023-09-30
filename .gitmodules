@@ -103,3 +103,6 @@
 [submodule "apache-commons-lang-27676c620a7dbb3365311c3424554c603bb11470"]
 	path = repos/apache/commons-lang/27676c620a7dbb3365311c3424554c603bb11470
 	url = https://github.com/apache/commons-lang.git
+[submodule "magro-kryo-serializers-ee0166db6ef90910fbfe68b1400c5742c7f1a79d"]
+	path = repos/magro/kryo-serializers/ee0166db6ef90910fbfe68b1400c5742c7f1a79d
+	url = https://github.com/magro/kryo-serializers.git
