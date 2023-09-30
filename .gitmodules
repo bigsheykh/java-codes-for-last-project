@@ -61,3 +61,6 @@
 [submodule "DiUS-java-faker-a568d925cc86dc933a8b38e075916d3b33cd13f2"]
 	path = repos/DiUS/java-faker/a568d925cc86dc933a8b38e075916d3b33cd13f2
 	url = https://github.com/DiUS/java-faker.git
+[submodule "mvel-mvel-f43d5e36c6df05858fdd5175600de319e05962d8"]
+	path = repos/mvel/mvel/f43d5e36c6df05858fdd5175600de319e05962d8
+	url = https://github.com/mvel/mvel.git
