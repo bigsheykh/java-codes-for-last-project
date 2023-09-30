@@ -25,3 +25,6 @@
 [submodule "apache-commons-email-927b8943f396f8494b17e90608272fe2068c0df3"]
 	path = repos/apache/commons-email/927b8943f396f8494b17e90608272fe2068c0df3
 	url = https://github.com/apache/commons-email.git
+[submodule "alibaba-fastjson-380ac7fa3aaa0284fb1d52da49afa6d43e670001"]
+	path = repos/alibaba/fastjson/380ac7fa3aaa0284fb1d52da49afa6d43e670001
+	url = https://github.com/alibaba/fastjson.git
