@@ -4,9 +4,6 @@
 [submodule "JSQLParser-JSqlParser-e47132ae5103adb91c760cee599806a181a11c89"]
 	path = repos/JSQLParser/JSqlParser/e47132ae5103adb91c760cee599806a181a11c89
 	url = https://github.com/JSQLParser/JSqlParser.git
-[submodule "apache-attic-mrunit-f43424e873f9803ce32abf69a6e67330daceb8aa"]
-	path = repos/apache/attic-mrunit/f43424e873f9803ce32abf69a6e67330daceb8aa
-	url = https://github.com/apache/attic-mrunit.git
 [submodule "FasterXML-jackson-datatype-jsr310-5d9b39f09a8e587980f21535dbcb47f883b96e3a"]
 	path = repos/FasterXML/jackson-datatype-jsr310/5d9b39f09a8e587980f21535dbcb47f883b96e3a
 	url = https://github.com/FasterXML/jackson-datatype-jsr310.git
@@ -19,12 +16,6 @@
 [submodule "alibaba-fastjson-2bd96e9f91f7ae96c8f8f9f0182bd6400216c7f4"]
 	path = repos/alibaba/fastjson/2bd96e9f91f7ae96c8f8f9f0182bd6400216c7f4
 	url = https://github.com/alibaba/fastjson.git
-[submodule "apache-commons-dbcp-638833291337c1ee0bd847a169a948e249561ba3"]
-	path = repos/apache/commons-dbcp/638833291337c1ee0bd847a169a948e249561ba3
-	url = https://github.com/apache/commons-dbcp.git
-[submodule "apache-commons-lang-e0b474c0d015f89a52c4cf8866fa157dd89e7d1c"]
-	path = repos/apache/commons-lang/e0b474c0d015f89a52c4cf8866fa157dd89e7d1c
-	url = https://github.com/apache/commons-lang.git
 [submodule "dnsjava-dnsjava-b7f2562da1ee9067baf90334955a753e92010347"]
 	path = repos/dnsjava/dnsjava/b7f2562da1ee9067baf90334955a753e92010347
 	url = https://github.com/dnsjava/dnsjava.git

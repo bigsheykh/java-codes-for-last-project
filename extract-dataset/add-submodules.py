@@ -47,15 +47,18 @@ def add_submodule(repo):
             repo_url:str = repo_info["url"]
             repo_url = repo_url.replace("api.github.com/repos", "github.com")
             repo_father_address = os.path.join(repo_root_path, repo_owner, repo_name)
-            repo_relative_address = os.path.join(repo_father_address, repo[1])
-            print(repo_owner, repo_name, repo_url, repo_relative_address)
+            repo_complete_address = os.path.join(repo_father_address, repo[1])
+            git_directory = os.path.join(repo_complete_address, ".git")
+            if os.path.exists(git_directory):
+                return
+            print(repo_owner, repo_name, repo_url, repo_complete_address)
 
             os.makedirs(os.path.join(repo_root_path, repo_owner), exist_ok=True)
             os.makedirs(repo_father_address, exist_ok=True)
 
             process1 = subprocess.Popen(args=f"git submodule add --name {repo_owner}-{repo_name}-{repo[1]} {repo_url}.git {repo[1]}", cwd=repo_father_address, shell=True)
             process1.wait()
-            process2 = subprocess.Popen(args=f"git checkout {repo[1]}", cwd=repo_relative_address, shell=True)
+            process2 = subprocess.Popen(args=f"git checkout {repo[1]}", cwd=repo_complete_address, shell=True)
             process2.wait()
             process3 = subprocess.Popen(args=f"git add {repo[1]}", cwd=repo_father_address, shell=True)
             process3.wait()
