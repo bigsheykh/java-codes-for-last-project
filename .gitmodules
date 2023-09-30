@@ -13,3 +13,6 @@
 [submodule "jboss-javassist-javassist-7ff52ac61b307d6a785ae458d06bdf52335ae79c"]
 	path = repos/jboss-javassist/javassist/7ff52ac61b307d6a785ae458d06bdf52335ae79c
 	url = https://github.com/jboss-javassist/javassist.git
+[submodule "jqno-equalsverifier-e8c027d7827bbaecbe2a8352284955c794fefc2a"]
+	path = repos/jqno/equalsverifier/e8c027d7827bbaecbe2a8352284955c794fefc2a
+	url = https://github.com/jqno/equalsverifier.git
