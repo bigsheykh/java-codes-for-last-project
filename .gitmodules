@@ -106,3 +106,6 @@
 [submodule "magro-kryo-serializers-ee0166db6ef90910fbfe68b1400c5742c7f1a79d"]
 	path = repos/magro/kryo-serializers/ee0166db6ef90910fbfe68b1400c5742c7f1a79d
 	url = https://github.com/magro/kryo-serializers.git
+[submodule "j256-ormlite-jdbc-f0aee82e59a12d8f27cd150ee0d5fdf3f2ca91f1"]
+	path = repos/j256/ormlite-jdbc/f0aee82e59a12d8f27cd150ee0d5fdf3f2ca91f1
+	url = https://github.com/j256/ormlite-jdbc.git
