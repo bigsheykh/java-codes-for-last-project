@@ -157,3 +157,6 @@
 [submodule "logstash-logstash-logback-encoder-8d8bb766ee8d30bc77fe983fb72b107448cf048f"]
 	path = repos/logstash/logstash-logback-encoder/8d8bb766ee8d30bc77fe983fb72b107448cf048f
 	url = https://github.com/logstash/logstash-logback-encoder.git
+[submodule "apache-commons-validator-ff5b4b45dbea1522510e50dbab2aae65cf47c6d1"]
+	path = repos/apache/commons-validator/ff5b4b45dbea1522510e50dbab2aae65cf47c6d1
+	url = https://github.com/apache/commons-validator.git
