@@ -151,3 +151,6 @@
 [submodule "svn2github-kryo"]
 	path = repos/svn2github/kryo
 	url = https://github.com/svn2github/kryo.git
+[submodule "TooTallNate-Java-WebSocket"]
+	path = repos/TooTallNate/Java-WebSocket
+	url = https://github.com/TooTallNate/Java-WebSocket.git
