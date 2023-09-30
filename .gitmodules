@@ -31,3 +31,6 @@
 [submodule "bguerout-jongo-b37cac6e38ff748791a063a99e625d1d954d9692"]
 	path = repos/bguerout/jongo/b37cac6e38ff748791a063a99e625d1d954d9692
 	url = https://github.com/bguerout/jongo.git
+[submodule "xerial-sqlite-jdbc-f65211179d70d3b8b9273b85b914d378c2aa0db4"]
+	path = repos/xerial/sqlite-jdbc/f65211179d70d3b8b9273b85b914d378c2aa0db4
+	url = https://github.com/xerial/sqlite-jdbc.git
