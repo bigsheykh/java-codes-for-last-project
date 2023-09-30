@@ -118,3 +118,6 @@
 [submodule "apache-commons-compress-01b06d5ef5c5ac3bd651bedcfec7433231cea371"]
 	path = repos/apache/commons-compress/01b06d5ef5c5ac3bd651bedcfec7433231cea371
 	url = https://github.com/apache/commons-compress.git
+[submodule "apache-commons-codec-ec23a68495a96f5a65e4613545ecee6fd8e37fcf"]
+	path = repos/apache/commons-codec/ec23a68495a96f5a65e4613545ecee6fd8e37fcf
+	url = https://github.com/apache/commons-codec.git
