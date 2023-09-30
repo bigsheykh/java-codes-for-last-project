@@ -4,3 +4,6 @@
 [submodule "JSQLParser-JSqlParser-e47132ae5103adb91c760cee599806a181a11c89"]
 	path = repos/JSQLParser/JSqlParser/e47132ae5103adb91c760cee599806a181a11c89
 	url = https://github.com/JSQLParser/JSqlParser.git
+[submodule "apache-attic-mrunit-f43424e873f9803ce32abf69a6e67330daceb8aa"]
+	path = repos/apache/attic-mrunit/f43424e873f9803ce32abf69a6e67330daceb8aa
+	url = https://github.com/apache/attic-mrunit.git
