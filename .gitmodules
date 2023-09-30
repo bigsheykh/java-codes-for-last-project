@@ -49,3 +49,6 @@
 [submodule "apache-commons-collections-db189926f7415b9866e76cd8123e40c09c1cc67e"]
 	path = repos/apache/commons-collections/db189926f7415b9866e76cd8123e40c09c1cc67e
 	url = https://github.com/apache/commons-collections.git
+[submodule "JodaOrg-joda-time-c09de9425d4727e35fdc5b1a69f1e3b3ea4799e0"]
+	path = repos/JodaOrg/joda-time/c09de9425d4727e35fdc5b1a69f1e3b3ea4799e0
+	url = https://github.com/JodaOrg/joda-time.git
