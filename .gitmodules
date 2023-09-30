@@ -136,3 +136,6 @@
 [submodule "apache-commons-configuration-137997974e0ebd3acd047243f46ddf3b90fa0160"]
 	path = repos/apache/commons-configuration/137997974e0ebd3acd047243f46ddf3b90fa0160
 	url = https://github.com/apache/commons-configuration.git
+[submodule "joel-costigliola-assertj-core-ed104ac582301e1f75dc77a6c50d1e0831935e5f"]
+	path = repos/joel-costigliola/assertj-core/ed104ac582301e1f75dc77a6c50d1e0831935e5f
+	url = https://github.com/joel-costigliola/assertj-core.git
