@@ -136,3 +136,6 @@
 [submodule "RbkGh-Jose4j"]
 	path = repos/RbkGh/Jose4j
 	url = https://github.com/RbkGh/Jose4j.git
+[submodule "apache-commons-jxpath"]
+	path = repos/apache/commons-jxpath
+	url = https://github.com/apache/commons-jxpath.git
