@@ -19,3 +19,6 @@
 [submodule "alibaba-fastjson-2bd96e9f91f7ae96c8f8f9f0182bd6400216c7f4"]
 	path = repos/alibaba/fastjson/2bd96e9f91f7ae96c8f8f9f0182bd6400216c7f4
 	url = https://github.com/alibaba/fastjson.git
+[submodule "apache-commons-dbcp-638833291337c1ee0bd847a169a948e249561ba3"]
+	path = repos/apache/commons-dbcp/638833291337c1ee0bd847a169a948e249561ba3
+	url = https://github.com/apache/commons-dbcp.git
