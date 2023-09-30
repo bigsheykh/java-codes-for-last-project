@@ -115,3 +115,6 @@
 [submodule "bmoliveira-snake-yaml-7728c2334dfdecb66ae239fa831b21f61ec45360"]
 	path = repos/bmoliveira/snake-yaml/7728c2334dfdecb66ae239fa831b21f61ec45360
 	url = https://github.com/bmoliveira/snake-yaml.git
+[submodule "apache-commons-compress-01b06d5ef5c5ac3bd651bedcfec7433231cea371"]
+	path = repos/apache/commons-compress/01b06d5ef5c5ac3bd651bedcfec7433231cea371
+	url = https://github.com/apache/commons-compress.git
