@@ -37,8 +37,8 @@ set_of_repos = set([x[0] for x in list_of_testing])
         
 
 def add_submodule(repo):
-    path_of_repo_info = os.path.join(data_set_path, repo[0],"project-info.json")
-    repo_owner_and_name = str(repo[0]).split("/")
+    path_of_repo_info = os.path.join(data_set_path, repo,"project-info.json")
+    repo_owner_and_name = str(repo).split("/")
     repo_owner = repo_owner_and_name[0]
     repo_name = repo_owner_and_name[1]
     if os.path.exists(path_of_repo_info):
@@ -46,8 +46,8 @@ def add_submodule(repo):
             repo_info = json.load(json_file)
             repo_url:str = repo_info["url"]
             repo_url = repo_url.replace("api.github.com/repos", "github.com")
-            repo_father_address = os.path.join(repo_root_path, repo_owner, repo_name)
-            repo_complete_address = os.path.join(repo_father_address, repo[1])
+            repo_father_address = os.path.join(repo_root_path, repo_owner)
+            repo_complete_address = os.path.join(repo_father_address, repo_name)
             git_directory = os.path.join(repo_complete_address, ".git")
             if os.path.exists(git_directory):
                 return
@@ -56,21 +56,14 @@ def add_submodule(repo):
             os.makedirs(os.path.join(repo_root_path, repo_owner), exist_ok=True)
             os.makedirs(repo_father_address, exist_ok=True)
 
-            process1 = subprocess.Popen(args=f"git submodule add --name {repo_owner}-{repo_name}-{repo[1]} {repo_url}.git {repo[1]}", cwd=repo_father_address, shell=True)
+            process1 = subprocess.Popen(args=f"git submodule add --name {repo_owner}-{repo_name} {repo_url}.git {repo_name}", cwd=repo_father_address, shell=True)
             process1.wait()
-            process2 = subprocess.Popen(args=f"git checkout {repo[1]}", cwd=repo_complete_address, shell=True)
-            process2.wait()
-            process3 = subprocess.Popen(args=f"git add {repo[1]}", cwd=repo_father_address, shell=True)
+            process3 = subprocess.Popen(args=f"git add {repo_name}", cwd=repo_father_address, shell=True)
             process3.wait()
-            process4 = subprocess.Popen(args=f"git commit -m \"add {repo[0]} with commit {repo[1]}\"", cwd=repo_father_address, shell=True)
+            process4 = subprocess.Popen(args=f"git commit -m \"add {repo}\"", cwd=repo_father_address, shell=True)
             process4.wait()
     else:
         print(path_of_repo_info, "doesn't exist")
 
-
-for repo in list_of_testing:
+for repo in set_of_repos:
     add_submodule(repo)
-    # print(repo, path_of_repo)
-# print(len(set([x[0] for x in list_of_all])))
-# print(len(set([x[0] for x in list_of_unpassed])))
-# print(len(list_of_unpassed))
