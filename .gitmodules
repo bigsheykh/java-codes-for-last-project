@@ -76,3 +76,6 @@
 [submodule "apache-commons-math-16abfe5de688cc52fb0396e0609cb33044b15653"]
 	path = repos/apache/commons-math/16abfe5de688cc52fb0396e0609cb33044b15653
 	url = https://github.com/apache/commons-math.git
+[submodule "apache-commons-lang-e8f924f51be5bc8bcd583ea96e5ef25f9b2ca72a"]
+	path = repos/apache/commons-lang/e8f924f51be5bc8bcd583ea96e5ef25f9b2ca72a
+	url = https://github.com/apache/commons-lang.git
