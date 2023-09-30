@@ -46,3 +46,6 @@
 [submodule "brettwooldridge-HikariCP-132683a08f2759251072f72bd9091c9463cd8483"]
 	path = repos/brettwooldridge/HikariCP/132683a08f2759251072f72bd9091c9463cd8483
 	url = https://github.com/brettwooldridge/HikariCP.git
+[submodule "apache-commons-collections-db189926f7415b9866e76cd8123e40c09c1cc67e"]
+	path = repos/apache/commons-collections/db189926f7415b9866e76cd8123e40c09c1cc67e
+	url = https://github.com/apache/commons-collections.git
