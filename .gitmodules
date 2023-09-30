@@ -85,3 +85,6 @@
 [submodule "mybatis-mybatis-3-596cbe45f3d33efd9f19f6e2f13caf5163395d74"]
 	path = repos/mybatis/mybatis-3/596cbe45f3d33efd9f19f6e2f13caf5163395d74
 	url = https://github.com/mybatis/mybatis-3.git
+[submodule "apache-commons-collections-cb157163d7543f942a1391f3ef752ebea1e1b349"]
+	path = repos/apache/commons-collections/cb157163d7543f942a1391f3ef752ebea1e1b349
+	url = https://github.com/apache/commons-collections.git
