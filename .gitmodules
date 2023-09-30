@@ -22,3 +22,6 @@
 [submodule "apache-commons-dbcp-638833291337c1ee0bd847a169a948e249561ba3"]
 	path = repos/apache/commons-dbcp/638833291337c1ee0bd847a169a948e249561ba3
 	url = https://github.com/apache/commons-dbcp.git
+[submodule "apache-commons-lang-e0b474c0d015f89a52c4cf8866fa157dd89e7d1c"]
+	path = repos/apache/commons-lang/e0b474c0d015f89a52c4cf8866fa157dd89e7d1c
+	url = https://github.com/apache/commons-lang.git
