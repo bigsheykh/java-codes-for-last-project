@@ -37,3 +37,6 @@
 [submodule "HtmlUnit-htmlunit-3062b91112fe29c627d7e8d5144c47e84fd5e925"]
 	path = repos/HtmlUnit/htmlunit/3062b91112fe29c627d7e8d5144c47e84fd5e925
 	url = https://github.com/HtmlUnit/htmlunit.git
+[submodule "alexruiz-fest-assert-2.x-769bb356ba44d4d37173ff315261c8d5360c11e4"]
+	path = repos/alexruiz/fest-assert-2.x/769bb356ba44d4d37173ff315261c8d5360c11e4
+	url = https://github.com/alexruiz/fest-assert-2.x.git
