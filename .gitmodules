@@ -154,3 +154,6 @@
 [submodule "apache-commons-math-ef6e0f882819e7c5230aece1610297e67775cca2"]
 	path = repos/apache/commons-math/ef6e0f882819e7c5230aece1610297e67775cca2
 	url = https://github.com/apache/commons-math.git
+[submodule "logstash-logstash-logback-encoder-8d8bb766ee8d30bc77fe983fb72b107448cf048f"]
+	path = repos/logstash/logstash-logback-encoder/8d8bb766ee8d30bc77fe983fb72b107448cf048f
+	url = https://github.com/logstash/logstash-logback-encoder.git
