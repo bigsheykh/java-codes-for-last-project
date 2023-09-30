@@ -121,3 +121,6 @@
 [submodule "apache-commons-jexl"]
 	path = repos/apache/commons-jexl
 	url = https://github.com/apache/commons-jexl.git
+[submodule "zeromq-jeromq"]
+	path = repos/zeromq/jeromq
+	url = https://github.com/zeromq/jeromq.git
