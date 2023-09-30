@@ -97,3 +97,6 @@
 [submodule "alibaba-fastjson-9038e3bca50fde97da008f370d72d7afa774ee5d"]
 	path = repos/alibaba/fastjson/9038e3bca50fde97da008f370d72d7afa774ee5d
 	url = https://github.com/alibaba/fastjson.git
+[submodule "JSQLParser-JSqlParser-012fcc333375f65804e31bfd075eba862d3c04f3"]
+	path = repos/JSQLParser/JSqlParser/012fcc333375f65804e31bfd075eba862d3c04f3
+	url = https://github.com/JSQLParser/JSqlParser.git
