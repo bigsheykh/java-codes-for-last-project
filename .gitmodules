@@ -106,3 +106,6 @@
 [submodule "apache-commons-validator-ff5b4b45dbea1522510e50dbab2aae65cf47c6d1"]
 	path = repos/apache/commons-validator
 	url = https://github.com/apache/commons-validator.git
+[submodule "vert-x3-vertx-unit"]
+	path = repos/vert-x3/vertx-unit
+	url = https://github.com/vert-x3/vertx-unit.git
