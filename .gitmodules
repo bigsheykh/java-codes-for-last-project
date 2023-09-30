@@ -139,3 +139,6 @@
 [submodule "apache-commons-jxpath"]
 	path = repos/apache/commons-jxpath
 	url = https://github.com/apache/commons-jxpath.git
+[submodule "jettison-json-jettison"]
+	path = repos/jettison-json/jettison
+	url = https://github.com/jettison-json/jettison.git
