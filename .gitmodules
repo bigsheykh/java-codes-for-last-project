@@ -130,3 +130,6 @@
 [submodule "vert-x3-vertx-hazelcast"]
 	path = repos/vert-x3/vertx-hazelcast
 	url = https://github.com/vert-x3/vertx-hazelcast.git
+[submodule "apache-commons-dbcp"]
+	path = repos/apache/commons-dbcp
+	url = https://github.com/apache/commons-dbcp.git
