@@ -127,3 +127,6 @@
 [submodule "zeroturnaround-zt-exec-5ea417fbeb7b58cc5318c15ddba29d4c2c90633b"]
 	path = repos/zeroturnaround/zt-exec/5ea417fbeb7b58cc5318c15ddba29d4c2c90633b
 	url = https://github.com/zeroturnaround/zt-exec.git
+[submodule "eclipse-vertx-vert.x-e87daea97a27f7bb698499ca0727077cc1231844"]
+	path = repos/eclipse-vertx/vert.x/e87daea97a27f7bb698499ca0727077cc1231844
+	url = https://github.com/eclipse-vertx/vert.x.git
