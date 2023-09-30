@@ -112,3 +112,6 @@
 [submodule "jopt-simple-jopt-simple-59a05aa29e08ffaa9b57db138e37010d943a5451"]
 	path = repos/jopt-simple/jopt-simple/59a05aa29e08ffaa9b57db138e37010d943a5451
 	url = https://github.com/jopt-simple/jopt-simple.git
+[submodule "bmoliveira-snake-yaml-7728c2334dfdecb66ae239fa831b21f61ec45360"]
+	path = repos/bmoliveira/snake-yaml/7728c2334dfdecb66ae239fa831b21f61ec45360
+	url = https://github.com/bmoliveira/snake-yaml.git
