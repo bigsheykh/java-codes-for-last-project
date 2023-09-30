@@ -1,9 +1,6 @@
 [submodule "jhy-jsoup-b42fe0d5dfd882c5f544704b3dbe05c4301fe671"]
 	path = repos/jhy/jsoup/b42fe0d5dfd882c5f544704b3dbe05c4301fe671
 	url = https://github.com/jhy/jsoup.git
-[submodule "JSQLParser-JSqlParser-e47132ae5103adb91c760cee599806a181a11c89"]
-	path = repos/JSQLParser/JSqlParser/e47132ae5103adb91c760cee599806a181a11c89
-	url = https://github.com/JSQLParser/JSqlParser.git
 [submodule "FasterXML-jackson-datatype-jsr310-5d9b39f09a8e587980f21535dbcb47f883b96e3a"]
 	path = repos/FasterXML/jackson-datatype-jsr310/5d9b39f09a8e587980f21535dbcb47f883b96e3a
 	url = https://github.com/FasterXML/jackson-datatype-jsr310.git
@@ -16,18 +13,12 @@
 [submodule "alibaba-fastjson-2bd96e9f91f7ae96c8f8f9f0182bd6400216c7f4"]
 	path = repos/alibaba/fastjson/2bd96e9f91f7ae96c8f8f9f0182bd6400216c7f4
 	url = https://github.com/alibaba/fastjson.git
-[submodule "dnsjava-dnsjava-b7f2562da1ee9067baf90334955a753e92010347"]
-	path = repos/dnsjava/dnsjava/b7f2562da1ee9067baf90334955a753e92010347
-	url = https://github.com/dnsjava/dnsjava.git
 [submodule "joel-costigliola-assertj-core-03e16fb97b0329b96f9ec48ea2025ad314e6ae15"]
 	path = repos/joel-costigliola/assertj-core/03e16fb97b0329b96f9ec48ea2025ad314e6ae15
 	url = https://github.com/joel-costigliola/assertj-core.git
 [submodule "apache-commons-email-927b8943f396f8494b17e90608272fe2068c0df3"]
 	path = repos/apache/commons-email/927b8943f396f8494b17e90608272fe2068c0df3
 	url = https://github.com/apache/commons-email.git
-[submodule "alibaba-fastjson-380ac7fa3aaa0284fb1d52da49afa6d43e670001"]
-	path = repos/alibaba/fastjson/380ac7fa3aaa0284fb1d52da49afa6d43e670001
-	url = https://github.com/alibaba/fastjson.git
 [submodule "bguerout-jongo-b37cac6e38ff748791a063a99e625d1d954d9692"]
 	path = repos/bguerout/jongo/b37cac6e38ff748791a063a99e625d1d954d9692
 	url = https://github.com/bguerout/jongo.git
@@ -40,63 +31,33 @@
 [submodule "alexruiz-fest-assert-2.x-769bb356ba44d4d37173ff315261c8d5360c11e4"]
 	path = repos/alexruiz/fest-assert-2.x/769bb356ba44d4d37173ff315261c8d5360c11e4
 	url = https://github.com/alexruiz/fest-assert-2.x.git
-[submodule "FasterXML-jackson-datatype-jsr310-92757f33c9581bb184c9ad75a5ed6ae8a89acf13"]
-	path = repos/FasterXML/jackson-datatype-jsr310/92757f33c9581bb184c9ad75a5ed6ae8a89acf13
-	url = https://github.com/FasterXML/jackson-datatype-jsr310.git
 [submodule "brettwooldridge-HikariCP-132683a08f2759251072f72bd9091c9463cd8483"]
 	path = repos/brettwooldridge/HikariCP/132683a08f2759251072f72bd9091c9463cd8483
 	url = https://github.com/brettwooldridge/HikariCP.git
-[submodule "apache-commons-collections-db189926f7415b9866e76cd8123e40c09c1cc67e"]
-	path = repos/apache/commons-collections/db189926f7415b9866e76cd8123e40c09c1cc67e
-	url = https://github.com/apache/commons-collections.git
 [submodule "JodaOrg-joda-time-c09de9425d4727e35fdc5b1a69f1e3b3ea4799e0"]
 	path = repos/JodaOrg/joda-time/c09de9425d4727e35fdc5b1a69f1e3b3ea4799e0
 	url = https://github.com/JodaOrg/joda-time.git
 [submodule "dnsjava-dnsjava-5f452a780727fdf904c33d642a1e0c8f98d4383a"]
 	path = repos/dnsjava/dnsjava/5f452a780727fdf904c33d642a1e0c8f98d4383a
 	url = https://github.com/dnsjava/dnsjava.git
-[submodule "mybatis-mybatis-3-abf2ef361641221be092008b90c74e4f0d510528"]
-	path = repos/mybatis/mybatis-3/abf2ef361641221be092008b90c74e4f0d510528
-	url = https://github.com/mybatis/mybatis-3.git
 [submodule "DiUS-java-faker-a568d925cc86dc933a8b38e075916d3b33cd13f2"]
 	path = repos/DiUS/java-faker/a568d925cc86dc933a8b38e075916d3b33cd13f2
 	url = https://github.com/DiUS/java-faker.git
 [submodule "mvel-mvel-f43d5e36c6df05858fdd5175600de319e05962d8"]
 	path = repos/mvel/mvel/f43d5e36c6df05858fdd5175600de319e05962d8
 	url = https://github.com/mvel/mvel.git
-[submodule "mybatis-mybatis-3-d83e3f0f8f923a6e0d9c381ae7205cf57c34c895"]
-	path = repos/mybatis/mybatis-3/d83e3f0f8f923a6e0d9c381ae7205cf57c34c895
-	url = https://github.com/mybatis/mybatis-3.git
-[submodule "bmoliveira-snake-yaml-9185cab2879ec45cd83c70a75292129c6f425fa4"]
-	path = repos/bmoliveira/snake-yaml/9185cab2879ec45cd83c70a75292129c6f425fa4
-	url = https://github.com/bmoliveira/snake-yaml.git
 [submodule "FasterXML-woodstox-c7fc22529b2246ca7516854cec4b9bf5be85fa8a"]
 	path = repos/FasterXML/woodstox/c7fc22529b2246ca7516854cec4b9bf5be85fa8a
 	url = https://github.com/FasterXML/woodstox.git
 [submodule "apache-commons-math-16abfe5de688cc52fb0396e0609cb33044b15653"]
 	path = repos/apache/commons-math/16abfe5de688cc52fb0396e0609cb33044b15653
 	url = https://github.com/apache/commons-math.git
-[submodule "apache-commons-lang-e8f924f51be5bc8bcd583ea96e5ef25f9b2ca72a"]
-	path = repos/apache/commons-lang/e8f924f51be5bc8bcd583ea96e5ef25f9b2ca72a
-	url = https://github.com/apache/commons-lang.git
 [submodule "hub4j-github-api-5194a361f49e382009ff3853010df9aec9b9a3ee"]
 	path = repos/hub4j/github-api/5194a361f49e382009ff3853010df9aec9b9a3ee
 	url = https://github.com/hub4j/github-api.git
-[submodule "mybatis-mybatis-3-596cbe45f3d33efd9f19f6e2f13caf5163395d74"]
-	path = repos/mybatis/mybatis-3/596cbe45f3d33efd9f19f6e2f13caf5163395d74
-	url = https://github.com/mybatis/mybatis-3.git
 [submodule "apache-commons-collections-cb157163d7543f942a1391f3ef752ebea1e1b349"]
 	path = repos/apache/commons-collections/cb157163d7543f942a1391f3ef752ebea1e1b349
 	url = https://github.com/apache/commons-collections.git
-[submodule "alibaba-fastjson-b9c5a6bf97958b6121871ceda8c626bd19254292"]
-	path = repos/alibaba/fastjson/b9c5a6bf97958b6121871ceda8c626bd19254292
-	url = https://github.com/alibaba/fastjson.git
-[submodule "brettwooldridge-HikariCP-85a77c25b84cf62ea25a0d8f24fbc51388fd39c9"]
-	path = repos/brettwooldridge/HikariCP/85a77c25b84cf62ea25a0d8f24fbc51388fd39c9
-	url = https://github.com/brettwooldridge/HikariCP.git
-[submodule "alibaba-fastjson-9038e3bca50fde97da008f370d72d7afa774ee5d"]
-	path = repos/alibaba/fastjson/9038e3bca50fde97da008f370d72d7afa774ee5d
-	url = https://github.com/alibaba/fastjson.git
 [submodule "JSQLParser-JSqlParser-012fcc333375f65804e31bfd075eba862d3c04f3"]
 	path = repos/JSQLParser/JSqlParser/012fcc333375f65804e31bfd075eba862d3c04f3
 	url = https://github.com/JSQLParser/JSqlParser.git
@@ -112,9 +73,6 @@
 [submodule "jopt-simple-jopt-simple-59a05aa29e08ffaa9b57db138e37010d943a5451"]
 	path = repos/jopt-simple/jopt-simple/59a05aa29e08ffaa9b57db138e37010d943a5451
 	url = https://github.com/jopt-simple/jopt-simple.git
-[submodule "bmoliveira-snake-yaml-7728c2334dfdecb66ae239fa831b21f61ec45360"]
-	path = repos/bmoliveira/snake-yaml/7728c2334dfdecb66ae239fa831b21f61ec45360
-	url = https://github.com/bmoliveira/snake-yaml.git
 [submodule "apache-commons-compress-01b06d5ef5c5ac3bd651bedcfec7433231cea371"]
 	path = repos/apache/commons-compress/01b06d5ef5c5ac3bd651bedcfec7433231cea371
 	url = https://github.com/apache/commons-compress.git
@@ -136,24 +94,12 @@
 [submodule "apache-commons-configuration-137997974e0ebd3acd047243f46ddf3b90fa0160"]
 	path = repos/apache/commons-configuration/137997974e0ebd3acd047243f46ddf3b90fa0160
 	url = https://github.com/apache/commons-configuration.git
-[submodule "joel-costigliola-assertj-core-ed104ac582301e1f75dc77a6c50d1e0831935e5f"]
-	path = repos/joel-costigliola/assertj-core/ed104ac582301e1f75dc77a6c50d1e0831935e5f
-	url = https://github.com/joel-costigliola/assertj-core.git
-[submodule "brettwooldridge-HikariCP-ec5e85e4316c6aa30bc2e115630f80c3b70e685e"]
-	path = repos/brettwooldridge/HikariCP/ec5e85e4316c6aa30bc2e115630f80c3b70e685e
-	url = https://github.com/brettwooldridge/HikariCP.git
-[submodule "HtmlUnit-htmlunit-9d4196a699786c4e1d3ca39af1519b2555de836b"]
-	path = repos/HtmlUnit/htmlunit/9d4196a699786c4e1d3ca39af1519b2555de836b
-	url = https://github.com/HtmlUnit/htmlunit.git
 [submodule "bmoliveira-snake-yaml-714247b283b81f5f26afe7cd196598d64ea0e245"]
 	path = repos/bmoliveira/snake-yaml/714247b283b81f5f26afe7cd196598d64ea0e245
 	url = https://github.com/bmoliveira/snake-yaml.git
 [submodule "mybatis-mybatis-3-22fcbef30a5f6708e5c314ef18b3fad13bd1c78e"]
 	path = repos/mybatis/mybatis-3/22fcbef30a5f6708e5c314ef18b3fad13bd1c78e
 	url = https://github.com/mybatis/mybatis-3.git
-[submodule "apache-commons-math-ef6e0f882819e7c5230aece1610297e67775cca2"]
-	path = repos/apache/commons-math/ef6e0f882819e7c5230aece1610297e67775cca2
-	url = https://github.com/apache/commons-math.git
 [submodule "logstash-logstash-logback-encoder-8d8bb766ee8d30bc77fe983fb72b107448cf048f"]
 	path = repos/logstash/logstash-logback-encoder/8d8bb766ee8d30bc77fe983fb72b107448cf048f
 	url = https://github.com/logstash/logstash-logback-encoder.git
