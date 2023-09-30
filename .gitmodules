@@ -1,3 +1,6 @@
 [submodule "jhy-jsoup-b42fe0d5dfd882c5f544704b3dbe05c4301fe671"]
 	path = repos/jhy/jsoup/b42fe0d5dfd882c5f544704b3dbe05c4301fe671
 	url = https://github.com/jhy/jsoup.git
+[submodule "JSQLParser-JSqlParser-e47132ae5103adb91c760cee599806a181a11c89"]
+	path = repos/JSQLParser/JSqlParser/e47132ae5103adb91c760cee599806a181a11c89
+	url = https://github.com/JSQLParser/JSqlParser.git
