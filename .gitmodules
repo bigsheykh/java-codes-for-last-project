@@ -115,3 +115,6 @@
 [submodule "apache-commons-exec"]
 	path = repos/apache/commons-exec
 	url = https://github.com/apache/commons-exec.git
+[submodule "EsotericSoftware-yamlbeans"]
+	path = repos/EsotericSoftware/yamlbeans
+	url = https://github.com/EsotericSoftware/yamlbeans.git
