@@ -10,3 +10,6 @@
 [submodule "FasterXML-jackson-datatype-jsr310-5d9b39f09a8e587980f21535dbcb47f883b96e3a"]
 	path = repos/FasterXML/jackson-datatype-jsr310/5d9b39f09a8e587980f21535dbcb47f883b96e3a
 	url = https://github.com/FasterXML/jackson-datatype-jsr310.git
+[submodule "jboss-javassist-javassist-7ff52ac61b307d6a785ae458d06bdf52335ae79c"]
+	path = repos/jboss-javassist/javassist/7ff52ac61b307d6a785ae458d06bdf52335ae79c
+	url = https://github.com/jboss-javassist/javassist.git
