@@ -112,3 +112,6 @@
 [submodule "apache-commons-cli"]
 	path = repos/apache/commons-cli
 	url = https://github.com/apache/commons-cli.git
+[submodule "apache-commons-exec"]
+	path = repos/apache/commons-exec
+	url = https://github.com/apache/commons-exec.git
