@@ -118,3 +118,6 @@
 [submodule "EsotericSoftware-yamlbeans"]
 	path = repos/EsotericSoftware/yamlbeans
 	url = https://github.com/EsotericSoftware/yamlbeans.git
+[submodule "apache-commons-jexl"]
+	path = repos/apache/commons-jexl
+	url = https://github.com/apache/commons-jexl.git
