@@ -79,3 +79,6 @@
 [submodule "apache-commons-lang-e8f924f51be5bc8bcd583ea96e5ef25f9b2ca72a"]
 	path = repos/apache/commons-lang/e8f924f51be5bc8bcd583ea96e5ef25f9b2ca72a
 	url = https://github.com/apache/commons-lang.git
+[submodule "hub4j-github-api-5194a361f49e382009ff3853010df9aec9b9a3ee"]
+	path = repos/hub4j/github-api/5194a361f49e382009ff3853010df9aec9b9a3ee
+	url = https://github.com/hub4j/github-api.git
