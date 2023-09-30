@@ -94,3 +94,6 @@
 [submodule "brettwooldridge-HikariCP-85a77c25b84cf62ea25a0d8f24fbc51388fd39c9"]
 	path = repos/brettwooldridge/HikariCP/85a77c25b84cf62ea25a0d8f24fbc51388fd39c9
 	url = https://github.com/brettwooldridge/HikariCP.git
+[submodule "alibaba-fastjson-9038e3bca50fde97da008f370d72d7afa774ee5d"]
+	path = repos/alibaba/fastjson/9038e3bca50fde97da008f370d72d7afa774ee5d
+	url = https://github.com/alibaba/fastjson.git
