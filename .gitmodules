@@ -145,3 +145,6 @@
 [submodule "HtmlUnit-htmlunit-9d4196a699786c4e1d3ca39af1519b2555de836b"]
 	path = repos/HtmlUnit/htmlunit/9d4196a699786c4e1d3ca39af1519b2555de836b
 	url = https://github.com/HtmlUnit/htmlunit.git
+[submodule "bmoliveira-snake-yaml-714247b283b81f5f26afe7cd196598d64ea0e245"]
+	path = repos/bmoliveira/snake-yaml/714247b283b81f5f26afe7cd196598d64ea0e245
+	url = https://github.com/bmoliveira/snake-yaml.git
