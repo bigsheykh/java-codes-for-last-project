@@ -88,3 +88,6 @@
 [submodule "apache-commons-collections-cb157163d7543f942a1391f3ef752ebea1e1b349"]
 	path = repos/apache/commons-collections/cb157163d7543f942a1391f3ef752ebea1e1b349
 	url = https://github.com/apache/commons-collections.git
+[submodule "alibaba-fastjson-b9c5a6bf97958b6121871ceda8c626bd19254292"]
+	path = repos/alibaba/fastjson/b9c5a6bf97958b6121871ceda8c626bd19254292
+	url = https://github.com/alibaba/fastjson.git
