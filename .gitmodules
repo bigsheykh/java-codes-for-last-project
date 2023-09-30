@@ -64,3 +64,6 @@
 [submodule "mvel-mvel-f43d5e36c6df05858fdd5175600de319e05962d8"]
 	path = repos/mvel/mvel/f43d5e36c6df05858fdd5175600de319e05962d8
 	url = https://github.com/mvel/mvel.git
+[submodule "mybatis-mybatis-3-d83e3f0f8f923a6e0d9c381ae7205cf57c34c895"]
+	path = repos/mybatis/mybatis-3/d83e3f0f8f923a6e0d9c381ae7205cf57c34c895
+	url = https://github.com/mybatis/mybatis-3.git
