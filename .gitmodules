@@ -151,3 +151,6 @@
 [submodule "mybatis-mybatis-3-22fcbef30a5f6708e5c314ef18b3fad13bd1c78e"]
 	path = repos/mybatis/mybatis-3/22fcbef30a5f6708e5c314ef18b3fad13bd1c78e
 	url = https://github.com/mybatis/mybatis-3.git
+[submodule "apache-commons-math-ef6e0f882819e7c5230aece1610297e67775cca2"]
+	path = repos/apache/commons-math/ef6e0f882819e7c5230aece1610297e67775cca2
+	url = https://github.com/apache/commons-math.git
