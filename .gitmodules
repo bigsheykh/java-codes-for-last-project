@@ -58,3 +58,6 @@
 [submodule "mybatis-mybatis-3-abf2ef361641221be092008b90c74e4f0d510528"]
 	path = repos/mybatis/mybatis-3/abf2ef361641221be092008b90c74e4f0d510528
 	url = https://github.com/mybatis/mybatis-3.git
+[submodule "DiUS-java-faker-a568d925cc86dc933a8b38e075916d3b33cd13f2"]
+	path = repos/DiUS/java-faker/a568d925cc86dc933a8b38e075916d3b33cd13f2
+	url = https://github.com/DiUS/java-faker.git
