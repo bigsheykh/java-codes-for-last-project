@@ -109,3 +109,6 @@
 [submodule "vert-x3-vertx-unit"]
 	path = repos/vert-x3/vertx-unit
 	url = https://github.com/vert-x3/vertx-unit.git
+[submodule "apache-commons-cli"]
+	path = repos/apache/commons-cli
+	url = https://github.com/apache/commons-cli.git
