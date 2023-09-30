@@ -127,3 +127,6 @@
 [submodule "perwendel-spark"]
 	path = repos/perwendel/spark
 	url = https://github.com/perwendel/spark.git
+[submodule "vert-x3-vertx-hazelcast"]
+	path = repos/vert-x3/vertx-hazelcast
+	url = https://github.com/vert-x3/vertx-hazelcast.git
