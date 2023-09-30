@@ -121,3 +121,6 @@
 [submodule "apache-commons-codec-ec23a68495a96f5a65e4613545ecee6fd8e37fcf"]
 	path = repos/apache/commons-codec/ec23a68495a96f5a65e4613545ecee6fd8e37fcf
 	url = https://github.com/apache/commons-codec.git
+[submodule "belerweb-pinyin4j-8a05f77d7c980aa21f6dd1c6c3911d790ddd7924"]
+	path = repos/belerweb/pinyin4j/8a05f77d7c980aa21f6dd1c6c3911d790ddd7924
+	url = https://github.com/belerweb/pinyin4j.git
