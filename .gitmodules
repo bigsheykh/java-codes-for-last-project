@@ -52,3 +52,6 @@
 [submodule "JodaOrg-joda-time-c09de9425d4727e35fdc5b1a69f1e3b3ea4799e0"]
 	path = repos/JodaOrg/joda-time/c09de9425d4727e35fdc5b1a69f1e3b3ea4799e0
 	url = https://github.com/JodaOrg/joda-time.git
+[submodule "dnsjava-dnsjava-5f452a780727fdf904c33d642a1e0c8f98d4383a"]
+	path = repos/dnsjava/dnsjava/5f452a780727fdf904c33d642a1e0c8f98d4383a
+	url = https://github.com/dnsjava/dnsjava.git
