@@ -25,3 +25,6 @@
 [submodule "apache-commons-lang-e0b474c0d015f89a52c4cf8866fa157dd89e7d1c"]
 	path = repos/apache/commons-lang/e0b474c0d015f89a52c4cf8866fa157dd89e7d1c
 	url = https://github.com/apache/commons-lang.git
+[submodule "dnsjava-dnsjava-b7f2562da1ee9067baf90334955a753e92010347"]
+	path = repos/dnsjava/dnsjava/b7f2562da1ee9067baf90334955a753e92010347
+	url = https://github.com/dnsjava/dnsjava.git
