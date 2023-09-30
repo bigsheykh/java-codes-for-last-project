@@ -100,3 +100,6 @@
 [submodule "JSQLParser-JSqlParser-012fcc333375f65804e31bfd075eba862d3c04f3"]
 	path = repos/JSQLParser/JSqlParser/012fcc333375f65804e31bfd075eba862d3c04f3
 	url = https://github.com/JSQLParser/JSqlParser.git
+[submodule "apache-commons-lang-27676c620a7dbb3365311c3424554c603bb11470"]
+	path = repos/apache/commons-lang/27676c620a7dbb3365311c3424554c603bb11470
+	url = https://github.com/apache/commons-lang.git
