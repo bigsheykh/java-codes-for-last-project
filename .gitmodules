@@ -124,3 +124,6 @@
 [submodule "zeromq-jeromq"]
 	path = repos/zeromq/jeromq
 	url = https://github.com/zeromq/jeromq.git
+[submodule "perwendel-spark"]
+	path = repos/perwendel/spark
+	url = https://github.com/perwendel/spark.git
