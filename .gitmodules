@@ -67,3 +67,6 @@
 [submodule "mybatis-mybatis-3-d83e3f0f8f923a6e0d9c381ae7205cf57c34c895"]
 	path = repos/mybatis/mybatis-3/d83e3f0f8f923a6e0d9c381ae7205cf57c34c895
 	url = https://github.com/mybatis/mybatis-3.git
+[submodule "bmoliveira-snake-yaml-9185cab2879ec45cd83c70a75292129c6f425fa4"]
+	path = repos/bmoliveira/snake-yaml/9185cab2879ec45cd83c70a75292129c6f425fa4
+	url = https://github.com/bmoliveira/snake-yaml.git
