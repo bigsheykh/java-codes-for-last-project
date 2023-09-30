@@ -28,3 +28,6 @@
 [submodule "alibaba-fastjson-380ac7fa3aaa0284fb1d52da49afa6d43e670001"]
 	path = repos/alibaba/fastjson/380ac7fa3aaa0284fb1d52da49afa6d43e670001
 	url = https://github.com/alibaba/fastjson.git
+[submodule "bguerout-jongo-b37cac6e38ff748791a063a99e625d1d954d9692"]
+	path = repos/bguerout/jongo/b37cac6e38ff748791a063a99e625d1d954d9692
+	url = https://github.com/bguerout/jongo.git
