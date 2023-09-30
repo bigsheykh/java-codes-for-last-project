@@ -55,3 +55,6 @@
 [submodule "dnsjava-dnsjava-5f452a780727fdf904c33d642a1e0c8f98d4383a"]
 	path = repos/dnsjava/dnsjava/5f452a780727fdf904c33d642a1e0c8f98d4383a
 	url = https://github.com/dnsjava/dnsjava.git
+[submodule "mybatis-mybatis-3-abf2ef361641221be092008b90c74e4f0d510528"]
+	path = repos/mybatis/mybatis-3/abf2ef361641221be092008b90c74e4f0d510528
+	url = https://github.com/mybatis/mybatis-3.git
