@@ -16,3 +16,6 @@
 [submodule "jqno-equalsverifier-e8c027d7827bbaecbe2a8352284955c794fefc2a"]
 	path = repos/jqno/equalsverifier/e8c027d7827bbaecbe2a8352284955c794fefc2a
 	url = https://github.com/jqno/equalsverifier.git
+[submodule "alibaba-fastjson-2bd96e9f91f7ae96c8f8f9f0182bd6400216c7f4"]
+	path = repos/alibaba/fastjson/2bd96e9f91f7ae96c8f8f9f0182bd6400216c7f4
+	url = https://github.com/alibaba/fastjson.git
