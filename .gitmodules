@@ -157,3 +157,6 @@
 [submodule "jenkinsci-token-macro-plugin"]
 	path = repos/jenkinsci/token-macro-plugin
 	url = https://github.com/jenkinsci/token-macro-plugin.git
+[submodule "jfree-jcommon"]
+	path = repos/jfree/jcommon
+	url = https://github.com/jfree/jcommon.git
