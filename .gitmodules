@@ -199,3 +199,6 @@
 [submodule "apache-sling-org-apache-sling-api"]
 	path = repos/apache/sling-org-apache-sling-api
 	url = https://github.com/apache/sling-org-apache-sling-api.git
+[submodule "SonarSource-sslr-squid-bridge"]
+	path = repos/SonarSource/sslr-squid-bridge
+	url = https://github.com/SonarSource/sslr-squid-bridge.git
