@@ -196,3 +196,6 @@
 [submodule "skyscreamer-JSONassert"]
 	path = repos/skyscreamer/JSONassert
 	url = https://github.com/skyscreamer/JSONassert.git
+[submodule "apache-sling-org-apache-sling-api"]
+	path = repos/apache/sling-org-apache-sling-api
+	url = https://github.com/apache/sling-org-apache-sling-api.git
