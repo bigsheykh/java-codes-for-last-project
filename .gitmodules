@@ -190,3 +190,6 @@
 [submodule "str4d-ed25519-java"]
 	path = repos/str4d/ed25519-java
 	url = https://github.com/str4d/ed25519-java.git
+[submodule "apache-commons-net"]
+	path = repos/apache/commons-net
+	url = https://github.com/apache/commons-net.git
