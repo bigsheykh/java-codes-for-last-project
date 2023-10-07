@@ -175,3 +175,6 @@
 [submodule "JodaOrg-joda-convert"]
 	path = repos/JodaOrg/joda-convert
 	url = https://github.com/JodaOrg/joda-convert.git
+[submodule "jline-jline2"]
+	path = repos/jline/jline2
+	url = https://github.com/jline/jline2.git
