@@ -193,3 +193,6 @@
 [submodule "apache-commons-net"]
 	path = repos/apache/commons-net
 	url = https://github.com/apache/commons-net.git
+[submodule "skyscreamer-JSONassert"]
+	path = repos/skyscreamer/JSONassert
+	url = https://github.com/skyscreamer/JSONassert.git
