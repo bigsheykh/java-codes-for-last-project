@@ -178,3 +178,6 @@
 [submodule "jline-jline2"]
 	path = repos/jline/jline2
 	url = https://github.com/jline/jline2.git
+[submodule "FasterXML-jackson-dataformat-csv"]
+	path = repos/FasterXML/jackson-dataformat-csv
+	url = https://github.com/FasterXML/jackson-dataformat-csv.git
