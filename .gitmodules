@@ -184,3 +184,6 @@
 [submodule "apache-commons-dbutils"]
 	path = repos/apache/commons-dbutils
 	url = https://github.com/apache/commons-dbutils.git
+[submodule "apache-commons-pool"]
+	path = repos/apache/commons-pool
+	url = https://github.com/apache/commons-pool.git
