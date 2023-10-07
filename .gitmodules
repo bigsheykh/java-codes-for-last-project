@@ -202,3 +202,6 @@
 [submodule "SonarSource-sslr-squid-bridge"]
 	path = repos/SonarSource/sslr-squid-bridge
 	url = https://github.com/SonarSource/sslr-squid-bridge.git
+[submodule "pagehelper-Mybatis-PageHelper"]
+	path = repos/pagehelper/Mybatis-PageHelper
+	url = https://github.com/pagehelper/Mybatis-PageHelper.git
