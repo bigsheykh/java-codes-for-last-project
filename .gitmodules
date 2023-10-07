@@ -205,3 +205,6 @@
 [submodule "pagehelper-Mybatis-PageHelper"]
 	path = repos/pagehelper/Mybatis-PageHelper
 	url = https://github.com/pagehelper/Mybatis-PageHelper.git
+[submodule "srikanth-lingala-zip4j"]
+	path = repos/srikanth-lingala/zip4j
+	url = https://github.com/srikanth-lingala/zip4j.git
