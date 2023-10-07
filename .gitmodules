@@ -166,3 +166,6 @@
 [submodule "HaraldWalker-user-agent-utils"]
 	path = repos/HaraldWalker/user-agent-utils
 	url = https://github.com/HaraldWalker/user-agent-utils.git
+[submodule "apache-commons-bcel"]
+	path = repos/apache/commons-bcel
+	url = https://github.com/apache/commons-bcel.git
