@@ -163,3 +163,6 @@
 [submodule "apache-commons-csv"]
 	path = repos/apache/commons-csv
 	url = https://github.com/apache/commons-csv.git
+[submodule "HaraldWalker-user-agent-utils"]
+	path = repos/HaraldWalker/user-agent-utils
+	url = https://github.com/HaraldWalker/user-agent-utils.git
