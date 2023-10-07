@@ -160,3 +160,6 @@
 [submodule "jfree-jcommon"]
 	path = repos/jfree/jcommon
 	url = https://github.com/jfree/jcommon.git
+[submodule "apache-commons-csv"]
+	path = repos/apache/commons-csv
+	url = https://github.com/apache/commons-csv.git
