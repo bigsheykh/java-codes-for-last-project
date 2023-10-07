@@ -172,3 +172,6 @@
 [submodule "jnr-jnr-ffi"]
 	path = repos/jnr/jnr-ffi
 	url = https://github.com/jnr/jnr-ffi.git
+[submodule "JodaOrg-joda-convert"]
+	path = repos/JodaOrg/joda-convert
+	url = https://github.com/JodaOrg/joda-convert.git
