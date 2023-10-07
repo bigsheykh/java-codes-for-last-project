@@ -181,3 +181,6 @@
 [submodule "FasterXML-jackson-dataformat-csv"]
 	path = repos/FasterXML/jackson-dataformat-csv
 	url = https://github.com/FasterXML/jackson-dataformat-csv.git
+[submodule "apache-commons-dbutils"]
+	path = repos/apache/commons-dbutils
+	url = https://github.com/apache/commons-dbutils.git
