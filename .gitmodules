@@ -169,3 +169,6 @@
 [submodule "apache-commons-bcel"]
 	path = repos/apache/commons-bcel
 	url = https://github.com/apache/commons-bcel.git
+[submodule "jnr-jnr-ffi"]
+	path = repos/jnr/jnr-ffi
+	url = https://github.com/jnr/jnr-ffi.git
