@@ -19,7 +19,22 @@
         <dependency>
             <groupId>com.github.javaparser</groupId>
             <artifactId>javaparser-core</artifactId>
-            <version>3.25.5</version>
+            <version>(3.3.0,)</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-dependency-plugin</artifactId>
+            <version>[1.0.0,)</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.maven</groupId>
+            <artifactId>maven-embedder</artifactId>
+            <version>[3.0.0,)</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.maven.shared</groupId>
+            <artifactId>maven-invoker</artifactId>
+            <version>[3.0.1,)</version>
         </dependency>
     </dependencies>
 
@@ -57,6 +72,7 @@
                 <version>3.1.0</version>
                 <executions>
                     <execution>
+                        <?m2e execute onConfiguration,onIncremental?>
                     <id>generate csv</id>
                     <phase>generate-sources</phase>
                     <goals>
@@ -67,7 +83,12 @@
                     </configuration>
                     </execution>
                 </executions>
-            </plugin>            
+            </plugin>   
+            <plugin>
+                <groupId>com.github.exampledriven</groupId>
+                <artifactId>hierarchy-maven-plugin</artifactId>
+                <version>1.4</version>
+            </plugin>       
         </plugins>
     </build>
 </project>

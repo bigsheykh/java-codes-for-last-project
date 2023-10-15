@@ -27,3 +27,6 @@ replay_pid*
 
 # cache
 __pycache__
+
+# training
+dump
